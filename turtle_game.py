@@ -1,7 +1,6 @@
 #Import in-built function turtle from your python
 import turtle
 
-
 #naming a variable from drawing 
 t = turtle.Pen()
 
